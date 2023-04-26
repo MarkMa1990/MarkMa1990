@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarkMa1990
+- 👋 Hi, I’m Hongfeng, an optics engineer works on diffractive optics
 - 👀 I’m interested in Social Psycology, Physics, Math, and other fundamental things
 - 🌱 I’m currently learning QUANTUM COMPUTER
 - 💞️ I’m looking to collaborate on nano fabrication

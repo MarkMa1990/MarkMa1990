@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Hongfeng, an optics engineer
 - 👀 I’m interested in Social Psycology, Physics, Math, and other fundamental things
-- 🌱 I’m currently learning Web Development
+- 🌱 
 - 📫 ma54746929@gmail.com
